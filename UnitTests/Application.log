@@ -1,0 +1,16 @@
+2021-02-06 23:06:54,594 : INFO : test_login_with_data_provider : Opening URL....
+2021-02-06 23:06:58,580 : INFO : test_login_with_data_provider : Maximizing window
+2021-02-06 23:07:00,277 : INFO : test_login_with_data_provider : Clicking on Form Authentication
+2021-02-06 23:07:01,356 : INFO : test_login_with_data_provider : Entering username
+2021-02-06 23:07:01,787 : INFO : test_login_with_data_provider : Entering password
+2021-02-06 23:07:03,891 : INFO : test_login_with_data_provider : Clicked on Submit button
+2021-02-06 23:07:04,228 : INFO : test_login_with_data_provider : Login successfully validated
+2021-02-06 23:07:07,610 : INFO : test_login_with_data_provider : Browser closed!!!
+2021-02-06 23:13:18,358 : INFO : test_login_with_data_provider : Opening URL....
+2021-02-06 23:13:23,878 : INFO : test_login_with_data_provider : Maximizing window
+2021-02-06 23:13:26,356 : INFO : test_login_with_data_provider : Clicking on Form Authentication
+2021-02-06 23:13:27,762 : INFO : test_login_with_data_provider : Entering username
+2021-02-06 23:13:28,147 : INFO : test_login_with_data_provider : Entering password
+2021-02-06 23:13:30,222 : INFO : test_login_with_data_provider : Clicked on Submit button
+2021-02-06 23:13:30,326 : INFO : test_login_with_data_provider : Login successfully validated
+2021-02-06 23:13:34,037 : INFO : test_login_with_data_provider : Browser closed!!!
