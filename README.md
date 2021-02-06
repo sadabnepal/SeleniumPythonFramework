@@ -19,7 +19,8 @@ Sample Selenium with Python project
 ```
 
 ### Reports used
-- PyTest default
+- Pytest HMTL Report
 
 ### Sample Report
-![image](https://user-images.githubusercontent.com/65847528/107117176-685d5280-689e-11eb-94f0-2cdd18c58f9d.png)
+![image](https://user-images.githubusercontent.com/65847528/107118568-c9d5ef00-68a7-11eb-9878-2c3cc2bc3ad5.png)
+
