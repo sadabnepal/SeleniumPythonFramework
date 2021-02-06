@@ -1,7 +1,7 @@
 # SeleniumPythonFramework
 Sample Selenium with Python project
 
-## Pre-Requisit
+## Pre-Requisite
 ```
 1. Python, PIP
 2. Pycharm
