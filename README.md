@@ -20,3 +20,6 @@ Sample Selenium with Python project
 
 ### Reports used
 - Yet to implement
+
+### Sample Report
+![image](https://user-images.githubusercontent.com/65847528/107117176-685d5280-689e-11eb-94f0-2cdd18c58f9d.png)
