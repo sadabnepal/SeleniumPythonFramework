@@ -9,15 +9,9 @@ def setup():
     print("This is closure of fixture method")
 
 
-@pytest.fixture
-def login_data_provider():
-    print("Creating test data")
-    return ["tomsmith", "SuperSecretPassword!", "tomsmith1", "SuperSecretPassword!1"]
-
-
 @pytest.fixture(params=["chrome", "firefox", "edge"])
 def data_list(request):
-    return request
+    return request.param
 
 
 @pytest.fixture(params=[
@@ -25,5 +19,5 @@ def data_list(request):
     ("browser", "firefox", "foo", "baar")
 ])
 def data_list_of_tuple(request):
-    return request
+    return request.param
 
