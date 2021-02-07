@@ -1,7 +1,9 @@
 from selenium.webdriver.common.by import By
 
+from Utils.LoggerUtil import LoggerUtil
 
-class HomePage:
+
+class HomePage(LoggerUtil):
     def __init__(self, driver):
         self.driver = driver
 
@@ -13,5 +15,6 @@ class HomePage:
 
     def doLogout(self):
         self.driver.find_element(*HomePage.login_icon).click()
+        self.getLogger().info("Clicked on login user icon")
         self.driver.find_element(*HomePage.logout_link).click()
-
+        self.getLogger().info("Clicked on logout link")
