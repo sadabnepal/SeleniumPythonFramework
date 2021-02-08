@@ -46,3 +46,25 @@
 2021-02-08 22:19:18,946 : INFO : doLogout : Clicked on login user icon
 2021-02-08 22:19:20,767 : INFO : doLogout : Clicked on logout link
 2021-02-08 22:19:20,767 : INFO : doLogout : Clicked on logout link
+2021-02-09 00:05:44,933 : INFO : setUsername : Entered username
+2021-02-09 00:05:45,215 : INFO : setPassword : Entered password
+2021-02-09 00:05:52,336 : INFO : clickLoginBtn : Clicked on Submit button
+2021-02-09 00:05:52,861 : INFO : doLogout : Clicked on login user icon
+2021-02-09 00:09:03,829 : INFO : setUsername : Entered username
+2021-02-09 00:09:04,217 : INFO : setPassword : Entered password
+2021-02-09 00:09:17,070 : INFO : clickLoginBtn : Clicked on Submit button
+2021-02-09 00:09:17,383 : INFO : doLogout : Clicked on login user icon
+2021-02-09 00:09:19,197 : INFO : doLogout : Clicked on logout link
+2021-02-09 00:09:19,197 : INFO : doLogout : Clicked on logout link
+2021-02-09 00:12:35,929 : INFO : setUsername : Entered username
+2021-02-09 00:12:36,338 : INFO : setPassword : Entered password
+2021-02-09 00:12:43,390 : INFO : clickLoginBtn : Clicked on Submit button
+2021-02-09 00:12:43,588 : INFO : doLogout : Clicked on login user icon
+2021-02-09 00:12:45,355 : INFO : doLogout : Clicked on logout link
+2021-02-09 00:12:45,355 : INFO : doLogout : Clicked on logout link
+2021-02-09 00:12:45,605 : INFO : setUsername : Entered username
+2021-02-09 00:12:45,605 : INFO : setUsername : Entered username
+2021-02-09 00:12:45,715 : INFO : setPassword : Entered password
+2021-02-09 00:12:45,715 : INFO : setPassword : Entered password
+2021-02-09 00:12:46,989 : INFO : clickLoginBtn : Clicked on Submit button
+2021-02-09 00:12:46,989 : INFO : clickLoginBtn : Clicked on Submit button

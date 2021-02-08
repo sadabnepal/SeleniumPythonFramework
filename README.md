@@ -15,7 +15,7 @@ Sample Selenium with Python project
 
 ## Runing a Test
 ```
-1. In the terminal, perform `py.test <FILE_NAME> -v -s` to start pytest execution
+1. In the terminal, perform `py.test <FILE_NAME> --html=index.html -v -s` to start pytest execution
 ```
 
 ### Reports used
