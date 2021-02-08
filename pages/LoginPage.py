@@ -13,6 +13,7 @@ class LoginPage(LoggerUtil):
     password_txt = (By.ID, "txtPassword")
     login_btn = (By.ID, "btnLogin")
     login_image_container = (By.ID, "divLoginImageContainer")
+    invalid_msg = (By.ID, "spanMessage")
 
     def setUsername(self, username):
         self.driver.find_element(*LoginPage.username_txt).send_keys(username)
@@ -31,3 +32,6 @@ class LoginPage(LoggerUtil):
 
     def getLoginImageContainer(self):
         return self.driver.find_element(*LoginPage.login_image_container)
+
+    def getInvalidMsgText(self):
+        return self.driver.find_element(*LoginPage.invalid_msg).text
